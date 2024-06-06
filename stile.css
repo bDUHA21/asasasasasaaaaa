@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#a1010{
+    height: 7000;
+    width: 8000;
+    background-color: rgb(94, 94, 94);
+    border: 3px solid blue;
+    border-radius: 1px;
+}
+.aaa{
+    background-color: red;
+    border-radius: 12px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+#a{
+    display: flex;
+    justify-content: space-between;
+}
+.as{
+    gap: 100px;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin: 10px 600px;
+}
+.bDUHA_21{
+ display:flex;
+ justify-content: space-evenly;
+}
+.a101101101{
+    background-color: rgb(30, 255, 0);
+    border: 50px solid red;
+    margin: 12px;
+    border-radius: 7px;
+}
